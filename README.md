@@ -59,3 +59,6 @@ plt.title("Result of Hough Transform")
 plt.axis('off')
 ```
 ![alt text](image-3.png)
+
+## Result:
+Thus, the lines in the image were successfully detected using the Hough Transform method in Python.
